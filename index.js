@@ -46,7 +46,7 @@ const makeCommits = async (startDate, endDate) => {
 };
 
 // 🗓️ Set your date range (July → November 2025)
-const start = moment("2026-11-09", "YYYY-MM-DD");
+const start = moment("2025-11-09", "YYYY-MM-DD");
 
 const end = moment("2026-01-10", "YYYY-MM-DD");
 
